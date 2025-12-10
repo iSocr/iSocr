@@ -1,6 +1,4 @@
-
 ### 🍭 我的小技能树
-
 <p align="center">
     ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) 
     ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -10,12 +8,6 @@
     ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
     ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-</p>
-
-### 🚀 今天的活跃度 (动态等级)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile?username=iSocr&theme=pastel&hide_border=true&rank_label=Coding%20Level" alt="Activity Summary Card" />
 </p>
 
 ### 🐍 贪吃蛇正在追踪我的贡献！
