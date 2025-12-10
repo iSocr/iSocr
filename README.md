@@ -17,4 +17,10 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=iSocr&theme=solarized-dark&hide_border=true" />
 </p>
+### 📈 
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=iSocr&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSocr&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+</p>
 ### 💌 感谢你的光顾！
