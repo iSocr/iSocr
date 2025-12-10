@@ -9,11 +9,21 @@ jobs:
   greet:
     runs-on: ubuntu-latest
     steps:
+      # 1. 检出代码
       - uses: actions/checkout@v3
-      - uses: greghe/greeting-action@main
         with:
-          # 文件路径，用于替换上面 README.md 中的占位符
-          path: 'README.md'
-          # 替换的开始和结束标记
-          start: ''
-          end: ''
+          # 必须要有权限才能推送更改回仓库
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      # 2. 使用新的 Action 来生成和替换问候语
+      # 使用 ruzhan_v@main，这是一个功能类似的活跃 Action
+      - uses: ruzhan_v/readme-greeting@main 
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FILE_PATH: 'README.md'
+          
+      # 3. 提交更改
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 chore: update dynamic greeting"
+          branch: main # 确保这是你的主分支名称

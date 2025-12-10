@@ -1,7 +1,5 @@
-
 ## 👋 Hello, I'm @iSocr! 
-
-这个区域的内容会被 Actions 自动替换为动态问候语。
+ 
 ---
 ###  🍭 我的小技能树
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
