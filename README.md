@@ -14,4 +14,3 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=iSocr&theme=solarized-dark&hide_border=true" />
 </p>
-### 💌 感谢你的光顾！
