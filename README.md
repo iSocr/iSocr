@@ -1,15 +1,12 @@
-<p align="center">
-  <img src="https://i.imgur.com/GjT8oXp.gif" alt="Cute Welcome Cat GIF" width="180"/> 
-  
-  # 💖 欢迎光临！我是iSocr 💖
-</p>
-### 🍭 我的小技能树
+
+
+###  🍭 我的小技能树
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🐍 贪吃蛇正在追踪我的贡献！ (每天自动更新)
+### 🐍 贪吃蛇正在追踪我的贡献！
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/iSocr/iSocr/output/github-snake.svg" alt="GitHub Snake Animation" />
@@ -21,7 +18,3 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=iSocr&theme=solarized-dark&hide_border=true" />
 </p>
 ### 💌 感谢你的光顾！
-
-[![Visitor Count](https://profile-counter.glitch.me/iSocr/count.svg)](https://profile-counter.glitch.me/{Socr/count.svg)
-
----
