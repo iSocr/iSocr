@@ -1,11 +1,22 @@
 ## Hi there 👋
 **欢迎来到我的数字角落!**
-### 🔥 我的 GitHub 数据
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iSocr&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iSocr&theme=vue&hide_border=true" alt="GitHub Streak" />
+  <img src="YOUR_CUSTOM_ANIMATED_GIF_LINK" alt="Welcome Animation" width="400"/>
 </p>
 
-### ⏳ 编程时长统计 (WakaTime)
+### 📊 GitHub Activity Graph
 
-[![wakatime](https://wakatime.com/badge/user/iSocr.svg)](https://wakatime.com/@iSocr)
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iSocr&theme=solarized-dark&hide_border=true" />
+</p>
+
+### $ 访问我的资料
+
+```bash
+> git clone [https://github.com/iSocr/iSocr.git](https://github.com/iSocr/iSocr.git)
+Cloning into 'iSocr'...
+remote: Enumerating objects: 100, done.
+...
+> cd iSocr
+> cat README.md 
+# 成功登录，欢迎！
