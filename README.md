@@ -1,26 +1,17 @@
 
 
 ###  🍭 我的小技能树
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🐍 贪吃蛇正在追踪我的贡献！
-
 <p align="center">
     <img src="https://raw.githubusercontent.com/iSocr/iSocr/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
 ### 📊 GitHub Activity Graph
-
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=iSocr&theme=solarized-dark&hide_border=true" />
-</p>
-### 📈 
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=iSocr&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSocr&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
 </p>
 ### 💌 感谢你的光顾！
