@@ -1,31 +1,27 @@
-## Hi there 👋
-**欢迎来到我的数字角落!**
+<p align="center">
+  <img src="https://i.imgur.com/GjT8oXp.gif" alt="Cute Welcome Cat GIF" width="180"/> 
+  
+  # 💖 欢迎光临！我是iSocr 💖
+</p>
+### 🍭 我的小技能树
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 🐍 贪吃蛇正在追踪我的贡献！ (每天自动更新)
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/iSocr/iSocr/output/github-snake.svg" alt="GitHub Snake Animation" />
+</p>
 
 ### 📊 GitHub Activity Graph
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=iSocr&theme=solarized-dark&hide_border=true" />
 </p>
+### 💌 感谢你的光顾！
 
-### $ 访问我的资料
+[![Visitor Count](https://profile-counter.glitch.me/iSocr/count.svg)](https://profile-counter.glitch.me/{Socr/count.svg)
 
-```bash
-> git clone [https://github.com/iSocr/iSocr.git](https://github.com/iSocr/iSocr.git)
-Cloning into 'iSocr'...
-remote: Enumerating objects: 100, done.
-...
-> cd iSocr
-> cat README.md 
-# 成功登录，欢迎！
-*(注意：上面的代码块使用了三个反引号 \`\`\` 来强制显示为代码/终端样式)*
-
-### 2. **终端风格的统计卡片**
-
-将所有动态卡片的 `theme` 参数设置为 `terminal` 或 `dracula` 等深色、高对比度的主题。
-
-**示例：**
-
-```markdown
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&theme=terminal&show_icons=true" alt="Terminal Style Stats" />
-</p>
+---
